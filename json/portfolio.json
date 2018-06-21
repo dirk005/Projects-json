@@ -1,4 +1,4 @@
-{
+[
 	{
 		"name": "Face-Detection",
 		"type": ["Project","React"],
@@ -13,4 +13,4 @@
 		"link": "https://dirk005.github.io/Star-wars-swapi/",
 		"image-link" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/starwars.png"
 	}
-}
+]
