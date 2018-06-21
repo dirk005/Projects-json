@@ -1,16 +1,16 @@
 [
 	{
 		"name":"Face-Detection",
-		"type":["Project","React"],
+		"type":["All","Project","React"],
 		"description":"React App that detects the location of a face in an image with a login and register form.",
 		"link":"https://smart-detect.herokuapp.com/",
-		"image-link":"https://raw.githubusercontent.com/dirk005/images/master/Portfolio/face-detect.png"
+		"imageLink":"https://raw.githubusercontent.com/dirk005/images/master/Portfolio/face-detect.png"
 	},
 	{
 		"name": "Star Wars App",
-		"type": ["Project","React"],
+		"type": ["All","Project","React"],
 		"description": "React App that gets Star Wars characters from an API and lets you search the characters.",
 		"link": "https://dirk005.github.io/Star-wars-swapi/",
-		"image-link" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/starwars.png"
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/starwars.png"
 	}
 ]
