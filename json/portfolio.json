@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Face-Detection",
-		"type": ["Project","React"],
-		"description": "React App that detects the location of a face in an image with a login and register form.",
-		"link": "https://smart-detect.herokuapp.com/",
-		"image-link" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/face-detect.png"
+		"name":"Face-Detection",
+		"type":["Project","React"],
+		"description":"React App that detects the location of a face in an image with a login and register form.",
+		"link":"https://smart-detect.herokuapp.com/",
+		"image-link":"https://raw.githubusercontent.com/dirk005/images/master/Portfolio/face-detect.png"
 	},
 	{
 		"name": "Star Wars App",
