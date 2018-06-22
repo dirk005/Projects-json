@@ -26,5 +26,19 @@
 		"description": "Basic tutorial on how to use React.js for zero-to-mastery course on Udemy.",
 		"link": "https://dirk005.github.io/Robo-friends/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/robo-friends.png"
+	},
+	{
+		"name": "Wiki Search",
+		"type": ["All","Project","JavaScript"],
+		"description": "Wikipedia Search using Wiki API and JavaScript.",
+		"link": "https://codepen.io/dirk005/full/ELQmVL/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/wiki-viewer.png"
+	},
+	{
+		"name": "Pomodoro Clock",
+		"type": ["All","Project","JavaScript"],
+		"description": "Pomodoro Clock using JavaScript.",
+		"link": "https://codepen.io/dirk005/full/rvqerN/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/clock.png"
 	}
 ]
