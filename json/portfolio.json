@@ -40,5 +40,19 @@
 		"description": "Pomodoro Clock starting at 25min using JavaScript and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/rvqerN/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/clock.png"
+	},
+	{
+		"name": "Weather",
+		"type": ["All","Project","JavaScript"],
+		"description": "Current Weather in your loaction using Weather API,JavaScript and CSS. Project for FreeCodeCamp.",
+		"link": "https://codepen.io/dirk005/full/NMyxLP/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/weather.png"
+	},
+	{
+		"name": "Elvis Tribute ",
+		"type": ["All","Project","Bootstrap"],
+		"description": "Elvis Tribute page using Bootstrap to display list of his number one singels. Project for FreeCodeCamp.",
+		"link": "https://codepen.io/dirk005/full/vjmaZq/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/elvis.png"
 	}
 ]
