@@ -22,10 +22,31 @@
 	},
 	{
 		"name": "Focus Web Design",
-		"type": ["All","WordPress","Bootstrap"],
-		"description": "Focus Web Design is a company I started to do web design and development ",
+		"type": ["All","Bootstrap"],
+		"description": "Focus Web Design is a company I started to do web design and development.",
 		"link": "http://www.focuswebdesign.co.za/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/FocusWebDesign.png"
+	},
+	{
+		"name": "New Seal",
+		"type": ["All","WordPress"],
+		"description": "New Seal is a company that does water and damp proofing in Johannesburg SA.",
+		"link": "http://www.newseal.co.za/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/newseal.png"
+	},
+	{
+		"name": "RTWay",
+		"type": ["All","WordPress"],
+		"description": "RTWay is a company that offers leadership courses in Johannesburg SA.",
+		"link": "http://www.rtway.co.za/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/rtway.png"
+	},
+	{
+		"name": "New Blindz",
+		"type": ["All","WordPress"],
+		"description": "New Blindz is a company that does blinds, renevation, painting and tilling in Johannesburg SA.",
+		"link": "http://www.newblindz.co.za/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/newblindz.png"
 	},
 	{
 		"name": "Robo Friends",
