@@ -30,14 +30,14 @@
 	{
 		"name": "Wiki Search",
 		"type": ["All","Project","JavaScript"],
-		"description": "Wikipedia Search using Wiki API and JavaScript.",
+		"description": "Wikipedia Search using Wiki API and JavaScript and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/ELQmVL/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/wiki-viewer.png"
 	},
 	{
 		"name": "Pomodoro Clock",
 		"type": ["All","Project","JavaScript"],
-		"description": "Pomodoro Clock using JavaScript.",
+		"description": "Pomodoro Clock using JavaScript and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/rvqerN/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/clock.png"
 	}
