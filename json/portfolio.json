@@ -35,6 +35,13 @@
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/wiki-viewer.png"
 	},
 	{
+		"name": "Calculator",
+		"type": ["All","Project","JavaScript"],
+		"description": "Calculator that has all the functions as a normal calculator using JavaScript and CSS. Project for FreeCodeCamp.",
+		"link": "https://codepen.io/dirk005/full/pVOgEp/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/calculator.png"
+	},
+	{
 		"name": "Pomodoro Clock",
 		"type": ["All","Project","JavaScript"],
 		"description": "Pomodoro Clock starting at 25min using JavaScript and CSS. Project for FreeCodeCamp.",
