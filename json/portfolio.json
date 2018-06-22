@@ -37,7 +37,7 @@
 	{
 		"name": "Pomodoro Clock",
 		"type": ["All","Project","JavaScript"],
-		"description": "Pomodoro Clock using JavaScript and CSS. Project for FreeCodeCamp.",
+		"description": "Pomodoro Clock starting at 25min using JavaScript and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/rvqerN/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/clock.png"
 	}
