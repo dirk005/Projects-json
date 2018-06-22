@@ -13,4 +13,11 @@
 		"link": "https://dirk005.github.io/Star-wars-swapi/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/starwars.png"
 	}
+	{
+		"name": "Gradient Generator",
+		"type": ["All","Project","JavaScript"],
+		"description": "Website that you can select your own colors to create gradient background or create with random colors.",
+		"link": "https://dirk005.github.io/background-generator/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/starwars.png"
+	}
 ]
