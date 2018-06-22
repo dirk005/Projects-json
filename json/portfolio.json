@@ -29,35 +29,35 @@
 	},
 	{
 		"name": "Wiki Search",
-		"type": ["All","Project","JavaScript"],
+		"type": ["All","Project","JavaScript","CSS"],
 		"description": "Wikipedia Search using Wiki API and JavaScript and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/ELQmVL/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/wiki-viewer.png"
 	},
 	{
 		"name": "Calculator",
-		"type": ["All","Project","JavaScript"],
+		"type": ["All","Project","JavaScript","CSS"],
 		"description": "Calculator that has all the functions as a normal calculator using JavaScript and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/pVOgEp/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/calculator.png"
 	},
 	{
 		"name": "Pomodoro Clock",
-		"type": ["All","Project","JavaScript"],
+		"type": ["All","Project","JavaScript","CSS"],
 		"description": "Pomodoro Clock starting at 25min using JavaScript and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/rvqerN/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/clock.png"
 	},
 	{
 		"name": "Twitch Streamers",
-		"type": ["All","Project","JavaScript"],
+		"type": ["All","Project","JavaScript","CSS"],
 		"description": "Twitch Streamers shows all user status using API,JavaScript and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/rvdWPK/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/twitch.png"
 	},
 	{
 		"name": "Random Quote",
-		"type": ["All","Project","JavaScript","Bootstrap"],
+		"type": ["All","Project","JavaScript","Bootstrap", "CSS"],
 		"description": "Random Quote gets quote form API using JavaScript, Bootstrap and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/BxJNGw/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/quote.png"
@@ -75,5 +75,12 @@
 		"description": "Elvis Tribute page using Bootstrap to display list of his number one singels. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/vjmaZq/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/elvis.png"
+	},
+	{
+		"name": "Basic Flex ",
+		"type": ["All","Project","CSS"],
+		"description": "Basic Flex uses css felx property to show wildlife images. Project for zero-to-mastery course.",
+		"link": "https://codepen.io/dirk005/full/PeXqBm/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/flex.png"
 	}
 ]
