@@ -51,14 +51,14 @@
 	{
 		"name": "Twitch Streamers",
 		"type": ["All","Project","JavaScript"],
-		"description": "Twitch Streamers shows all user and online or offline users using API,JavaScript and CSS. Project for FreeCodeCamp.",
+		"description": "Twitch Streamers shows all user status and what being streamed using API,JavaScript and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/rvdWPK/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/twitch.png"
 	},
 	{
 		"name": "Random Quote",
 		"type": ["All","Project","JavaScript","Bootstrap"],
-		"description": "Random Quote gets quote form API and lets you tweet it on Twitter Using JavaScript, Bootstrap and CSS. Project for FreeCodeCamp.",
+		"description": "Random Quote gets quote form API and lets you tweet the quote using JavaScript, Bootstrap and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/BxJNGw/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/quote.png"
 	},
