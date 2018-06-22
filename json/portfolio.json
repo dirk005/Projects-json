@@ -21,6 +21,13 @@
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/gradientGenerator.png"
 	},
 	{
+		"name": "Focus Web Design",
+		"type": ["All","WordPress","Bootstrap"],
+		"description": "Focus Web Design is a company I started to do web design and development ",
+		"link": "http://www.focuswebdesign.co.za/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/FocusWebDesign.png"
+	},
+	{
 		"name": "Robo Friends",
 		"type": ["All","Project","React"],
 		"description": "Basic tutorial on how to use React.js for zero-to-mastery course on Udemy.",
