@@ -19,5 +19,12 @@
 		"description": "Website that you can select your own colors to create gradient background or create with random colors.",
 		"link": "https://dirk005.github.io/background-generator/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/gradientGenerator.png"
+	},
+	{
+		"name": "Robo Friends",
+		"type": ["All","Project","React"],
+		"description": "Basic tutorial on how to use React.js for zero-to-mastery course on Udemy.",
+		"link": "https://dirk005.github.io/Robo-friends/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/robo-friends.png"
 	}
 ]
