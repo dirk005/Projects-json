@@ -120,7 +120,7 @@
 	},
 	{
 		"name": "Overlay With Text ",
-		"type": ["All","CSS"],
+		"type": ["All","CSS","Bootstrap"],
 		"description": "Resonsive image with overlay and text.Created using bootstrap and Sass to resize the overlay.",
 		"link": "hhttps://codepen.io/dirk005/full/WyPmKb/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/overlay.png"
