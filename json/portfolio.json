@@ -128,7 +128,7 @@
 	{
 		"name": "Grid Gallery ",
 		"type": ["All","CSS"],
-		"description": "Responsive image gallery.Created using CSS grid property to display number of images on a line.",
+		"description": "Responsive image gallery.Created using CSS grid property to fit images on a line.",
 		"link": "https://codepen.io/dirk005/full/PaLVQj/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/grid-gallery.png"
 	}
