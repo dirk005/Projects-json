@@ -124,5 +124,12 @@
 		"description": "Responsive image with overlay and text.Created using bootstrap and Sass to resize the overlay.",
 		"link": "https://codepen.io/dirk005/full/WyPmKb/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/overlay.png"
+	},
+	{
+		"name": "Grid Gallery ",
+		"type": ["All","CSS"],
+		"description": "Responsive image gallery.Created using CSS grid display to display number of images on a line.",
+		"link": "https://codepen.io/dirk005/full/PaLVQj/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/grid-gallery.png"
 	}
 ]
