@@ -1,5 +1,12 @@
 [
 	{
+		"name": "Tattoo Studio ",
+		"type": ["All","React","CSS"],
+		"description": "Web page template for Tattoo Studio to practice web development and design. Was created with React and Sass.",
+		"link": "https://dirk005.github.io/tattoo-studio/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/tattoo-studio.png"
+	},
+	{
 		"name":"Face-Detection",
 		"type":["All","Project","React"],
 		"description":"React App that detects the location of a face in an image with a login and register form.",
@@ -96,12 +103,6 @@
 		"description": "Current Weather in your loaction using Weather API,JavaScript and CSS. Project for FreeCodeCamp.",
 		"link": "https://codepen.io/dirk005/full/NMyxLP/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/weather.png"
-	},
-	{
-		"name": "Tattoo Studio ",
-		"type": ["All","React","CSS"],
-		"description": "Basic template for a tattoo studio.Created with React and Sass.",
-		"link": "https://dirk005.github.io/tattoo-studio/",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/tattoo-studio.png"
 	}
+	
 ]
