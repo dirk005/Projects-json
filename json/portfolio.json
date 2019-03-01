@@ -73,7 +73,7 @@
 		"name": "Pomodoro Clock",
 		"type": ["All","Project","JavaScript","CSS"],
 		"description": "Pomodoro Clock starting at 25min using JavaScript and CSS. Project for FreeCodeCamp.",
-		"link": "https://codepen.io/dirk005/full/rvqerN/",
+		"link": "https://codepen.io/dirk005/full/eXpEvL",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/clock.png"
 	},
 	{
@@ -98,38 +98,10 @@
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/weather.png"
 	},
 	{
-		"name": "Elvis Tribute ",
-		"type": ["All","Project","Bootstrap"],
-		"description": "Elvis Tribute page using Bootstrap to display list of his number one singels. Project for FreeCodeCamp.",
-		"link": "https://codepen.io/dirk005/full/vjmaZq/",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/elvis.png"
-	},
-	{
-		"name": "Basic Flex ",
-		"type": ["All","Project","CSS"],
-		"description": "Basic Flex uses css felx property to show wildlife images. Project for zero-to-mastery course.",
-		"link": "https://codepen.io/dirk005/full/PeXqBm/",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/flex.png"
-	},
-	{
-		"name": "Loader ",
-		"type": ["All","CSS"],
-		"description": "Basic Loader using CSS properties for loading of sites if there is data to be loaded.",
-		"link": "https://codepen.io/dirk005/full/eKjVZR/",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/loader.png"
-	},
-	{
-		"name": "Overlay With Text ",
-		"type": ["All","CSS","Bootstrap"],
-		"description": "Responsive image with overlay and text.Created using bootstrap and Sass to resize the overlay.",
-		"link": "https://codepen.io/dirk005/full/WyPmKb/",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/overlay.png"
-	},
-	{
-		"name": "Grid Gallery ",
-		"type": ["All","CSS"],
-		"description": "Responsive image gallery.Created using CSS grid property to fit images on a line.",
-		"link": "https://codepen.io/dirk005/full/PaLVQj/",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/grid-gallery.png"
+		"name": "Tattoo Studio ",
+		"type": ["All","React","CSS"],
+		"description": "Basic template for a tattoo studio.Created with React and Sass.",
+		"link": "https://dirk005.github.io/tattoo-studio/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/tatto-studio.png"
 	}
 ]
