@@ -2,7 +2,7 @@
 	{
 		"name": "Tattoo Studio ",
 		"type": ["All","React","CSS"],
-		"description": "Web page template for Tattoo Studio to practice web development and design. Was created with React and Sass.",
+		"description": "Web page for Tattoo Studio to practice web development and design. Was created with React and Sass.",
 		"link": "https://dirk005.github.io/tattoo-studio/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/Portfolio/tattoo-studio.png"
 	},
