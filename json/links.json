@@ -13,4 +13,19 @@
 		"link": "https://overapi.com/",
 		"imageLink" : "https://overapi.com/static/images/overapi-logo.png"
 	}
+	,
+	{
+		"name": "Python Anywhere",
+		"type": ["All","Python"],
+		"description": "PythonAnywhere makes it easy to create and run Python programs in the cloud.",
+		"link": "https://www.pythonanywhere.com/",
+		"imageLink" : "https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg"
+	},
+	{
+		"name": "Kaggle",
+		"type": ["All","Python","ml"],
+		"description": "Inside Kaggle you’ll find all the code & data you need to do your data science work. Use over 50,000 public datasets and 400,000 public notebooks to conquer any analysis in no time.",
+		"link": "https://www.kaggle.com/",
+		"imageLink" : "https://www.kaggle.com/static/images/site-logo.png"
+	}
 ]
