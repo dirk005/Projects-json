@@ -54,5 +54,26 @@
 		"description": "A query language for your API ",
 		"link": "https://graphql.org/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/graphql.png"
+	},
+	{
+		"name": "HTTP Status Codes",
+		"type": ["All","Nodejs","HTTP"],
+		"description": "httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.",
+		"link": "https://httpstatuses.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/http.png"
+	},
+	{
+		"name": "HTTP headers",
+		"type": ["All","Nodejs","HTTP"],
+		"description": "HTTP headers let the client and the server pass additional information with an HTTP request or response.",
+		"link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/http.png"
+	},
+	{
+		"name": "HTTP headers",
+		"type": ["All","javascript","Python"],
+		"description": "Create regular expressions.",
+		"link": "https://regex101.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/regular-expresions101.png"
 	}
 ]
