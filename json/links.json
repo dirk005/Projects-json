@@ -35,7 +35,7 @@
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/mongodb.png"
 	},
 	{
-		"name": "mongoose",
+		"name": "Mongoose",
 		"type": ["All","database","mongodb"],
 		"description": "Elegant MongoDB object modeling for Node.js.",
 		"link": "https://mongoosejs.com/docs/index.html",
