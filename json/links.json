@@ -25,7 +25,7 @@
 		"type": ["All","Python","ml"],
 		"description": "Inside Kaggle you’ll find all the code & data you need to do your data science work. Use over 50,000 public datasets and 400,000 public notebooks to conquer any analysis in no time.",
 		"link": "https://www.kaggle.com/",
-		"imageLink" : "https://www.kaggle.com/static/images/site-logo.png"
+		"imageLink" : "https://www.pythonanywhere.com/static/anywhere/images/PA-logo-large-icononly.png"
 	},
 	{
 		"name": "Mongodb",
