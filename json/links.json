@@ -4,28 +4,28 @@
 		"type": ["All","Python"],
 		"description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
 		"link": "https://pypi.org/",
-		"imageLink" : "https://pypi.org/static/images/logo-small.6eef541e.svg"
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/pypi.png"
 	},
 	{
 		"name": "OverAPI.com",
 		"type": ["All","Python","Nodejs","javascript","css","database","HTML","git"],
 		"description": "All Developer Cheat sheets.",
 		"link": "https://overapi.com/",
-		"imageLink" : "https://overapi.com/static/images/overapi-logo.png"
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/overapi.png"
 	},
 	{
 		"name": "Python Anywhere",
 		"type": ["All","Python"],
 		"description": "PythonAnywhere makes it easy to create and run Python programs in the cloud.",
 		"link": "https://www.pythonanywhere.com/",
-		"imageLink" : "https://www.pythonanywhere.com/static/anywhere/images/PA-logo-large-icononly.png"
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/PA.png"
 	},
 	{
 		"name": "Kaggle",
 		"type": ["All","Python","ml"],
 		"description": "Inside Kaggle you’ll find all the code & data you need to do your data science work. Use over 50,000 public datasets and 400,000 public notebooks to conquer any analysis in no time.",
 		"link": "https://www.kaggle.com/",
-		"imageLink" : "https://www.kaggle.com/static/images/site-logo.png"
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/kaggle.png"
 	},
 	{
 		"name": "Mongodb",
