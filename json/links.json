@@ -36,9 +36,23 @@
 	},
 	{
 		"name": "Mongoose",
-		"type": ["All","database","mongodb"],
+		"type": ["All","database","mongodb","Nodejs"],
 		"description": "Elegant MongoDB object modeling for Node.js.",
 		"link": "https://mongoosejs.com/docs/index.html",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/mongoose.png"
+	},
+	{
+		"name": "Firebase",
+		"type": ["All","database","firebase"],
+		"description": "Backed by Google and loved by app development teams - from startups to global enterprises ",
+		"link": "https://firebase.google.com",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/firebase.png"
+	},
+	{
+		"name": "GraphQL",
+		"type": ["All","API","Nodejs"],
+		"description": "A query language for your API ",
+		"link": "https://graphql.org/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/graphql.png"
 	}
 ]
