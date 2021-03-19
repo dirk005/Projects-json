@@ -32,6 +32,6 @@
 		"type": ["All","database","mongodb"],
 		"description": "MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era. ",
 		"link": "https://www.mongodb.com/",
-		"imageLink" : "https://p7.hiclipart.com/preview/1009/655/758/mongodb-logo-database-nosql-sql-logo-thumbnail.jpg"
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/mongodb.png"
 	}
 ]
