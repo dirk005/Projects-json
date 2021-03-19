@@ -19,7 +19,7 @@
 		"type": ["All","Python"],
 		"description": "PythonAnywhere makes it easy to create and run Python programs in the cloud.",
 		"link": "https://www.pythonanywhere.com/",
-		"imageLink" : "https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg"
+		"imageLink" : "https://www.pythonanywhere.com/static/anywhere/images/PA-logo-large-icononly.png"
 	},
 	{
 		"name": "Kaggle",
