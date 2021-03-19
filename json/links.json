@@ -70,10 +70,10 @@
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/http.png"
 	},
 	{
-		"name": "HTTP headers",
+		"name": "Regex 101",
 		"type": ["All","javascript","Python"],
 		"description": "Create regular expressions.",
 		"link": "https://regex101.com/",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/regular-expresions101.png"
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/regex101.png"
 	}
 ]
