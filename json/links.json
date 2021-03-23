@@ -98,6 +98,20 @@
 		"link": "https://coverr.co/stock-video-footage",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/coverr.png"
 	}
+	,{
+		"name": "Pexels",
+		"type": ["All","HTML","CSS"],
+		"description": "The best free stock photos & videos shared by talented creators.",
+		"link": "https://www.pexels.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/pexels.png"
+	}
+	,{
+		"name": "Morguefile",
+		"type": ["All","HTML","CSS"],
+		"description": "Browse royalty free stock photos free for commercial use.",
+		"link": "https://morguefile.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/morguefile.png"
+	}
 	,
 	{
 		"name": "Easing functions ",
