@@ -134,5 +134,34 @@
 		"description": "Upload & discover png files without a hitch!.",
 		"link": "https://www.cleanpng.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/cleanpng.png"
+	},
+	{
+		"name": "Flexbox Cheatsheet",
+		"type": ["All","CSS"],
+		"description": "Flexbox Cheatsheet with images.",
+		"link": "https://darekkay.com/flexbox-cheatsheet/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/flexboxcheatsheet.png"
+	},
+	{
+		"name": "Grid Cheatsheet",
+		"type": ["All","CSS"],
+		"description": "Grid Cheatsheet with images.",
+		"link": "https://grid.malven.co/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/grid.png"
+	}
+	,
+	{
+		"name": "Paletton",
+		"type": ["All","CSS"],
+		"description": "Color scheme generator.",
+		"link": "https://paletton.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/paletton.png"
+	},
+	{
+		"name": "Animate.css",
+		"type": ["All","CSS"],
+		"description": "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.",
+		"link": "https://animate.style/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/animate.png"
 	}
 ]
