@@ -8,7 +8,7 @@
 	},
 	{
 		"name": "OverAPI.com",
-		"type": ["All","Python","Nodejs","javascript","css","database","HTML","git"],
+		"type": ["All","Python","Nodejs","javascript","CSS","database","HTML","git"],
 		"description": "All Developer Cheat sheets.",
 		"link": "https://overapi.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/overapi.png"
@@ -23,7 +23,7 @@
 	{
 		"name": "Kaggle",
 		"type": ["All","Python","ml"],
-		"description": "Inside Kaggle you’ll find all the code & data you need to do your data science work. Use over 50,000 public datasets and 400,000 public notebooks to conquer any analysis in no time.",
+		"description": "Inside Kaggle you’ll find all the code & data you need to do your data science work.",
 		"link": "https://www.kaggle.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/kaggle.png"
 	},
@@ -112,6 +112,27 @@
 		"link": "https://morguefile.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/morguefile.png"
 	}
+	,{
+		"name": "allthefreestock",
+		"type": ["All","HTML","CSS"],
+		"description": "Get all the Free Stock Images, Videos, Music and Icons in one location.",
+		"link": "https://allthefreestock.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/allthefreestock.png"
+	}
+	,{
+		"name": "stockvault",
+		"type": ["All","HTML","CSS"],
+		"description": "Free Stock Photos.",
+		"link": "https://www.stockvault.net/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/stockvault.png"
+	}
+	,{
+		"name": "stockvault",
+		"type": ["All","HTML","CSS"],
+		"description": "Free Stock Photos.",
+		"link": "https://www.stockvault.net/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/stockvault.png"
+	}
 	,
 	{
 		"name": "Easing functions ",
@@ -174,7 +195,7 @@
 	{
 		"name": "Animate.css",
 		"type": ["All","CSS"],
-		"description": "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.",
+		"description": "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects.",
 		"link": "https://animate.style/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/animate.png"
 	},
@@ -227,7 +248,7 @@
 	},
 	{
 		"name": "Deploy react app to github",
-		"type": ["All","React","GIT"],
+		"type": ["All","React","git"],
 		"description": "Deploying a React App* to GitHub Pages.",
 		"link": "https://github.com/gitname/react-gh-pages",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/github.png"
