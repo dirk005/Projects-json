@@ -163,5 +163,68 @@
 		"description": "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.",
 		"link": "https://animate.style/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/animate.png"
+	},
+	{
+		"name": "React Docs",
+		"type": ["All","React"],
+		"description": "This page is an overview of the React documentation and related resources.",
+		"link": "https://reactjs.org/docs/getting-started.html",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/react.png"
+	},
+	{
+		"name": "API List",
+		"type": ["All","API"],
+		"description": "A collective list of APIs.",
+		"link": "https://apilist.fun/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/apilist.png"
+	},
+	{
+		"name": "Star Wars API",
+		"type": ["All","API"],
+		"description": "All the Star Wars data you've ever wanted.",
+		"link": "https://swapi.dev/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/swapi.png"
+	},
+	{
+		"name": "Deploy react app to github",
+		"type": ["All","React","GIT"],
+		"description": "Deploying a React App* to GitHub Pages.",
+		"link": "https://github.com/gitname/react-gh-pages",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/github.png"
+	},
+	{
+		"name": "VX",
+		"type": ["All","CSS","React"],
+		"description": "vx is a suite of several low-level standalone packages for building visual interfaces with react.",
+		"link": "https://vx-demo.now.sh/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/vx.png"
+	},
+	{
+		"name": "Express Docs",
+		"type": ["All","Nodejs"],
+		"description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+		"link": "https://expressjs.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/express.png"
+	},
+	{
+		"name": "Postman",
+		"type": ["All","Nodejs"],
+		"description": "Simplify each step of building an API and streamline collaboration so you can create better APIs—faster.",
+		"link": "https://www.postman.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/postman.png"
+	},
+	{
+		"name": "Knex.js",
+		"type": ["All","Nodejs","database","sql"],
+		"description": "Knex.js is a 'batteries included' SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use.",
+		"link": "https://knexjs.org/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/knex.png"
+	},
+	{
+		"name": "React Router",
+		"type": ["All","React"],
+		"description": "React Router is a collection of navigational components that compose declaratively with your application.",
+		"link": "https://reactrouter.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/reactrouter.png"
 	}
 ]
