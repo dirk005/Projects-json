@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Python Cheat Sheet",
+		"type": ["All","Python"],
+		"description": "ZTM Python Cheat Sheet.",
+		"link": "https://zerotomastery.io/cheatsheets/python-cheat-sheet/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/ztm.png"
+	},{
 		"name": "PyPI",
 		"type": ["All","Python"],
 		"description": "The Python Package Index (PyPI) is a repository of software for the Python programming language.",
