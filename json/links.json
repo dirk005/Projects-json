@@ -110,8 +110,22 @@
 	{
 		"name": "Cubic-bezier ",
 		"type": ["All","HTML","CSS"],
-		"description": "This page helps you create cubic-bezier function.",
+		"description": "A better tool for cubic-bezier() easing.",
 		"link": "https://cubic-bezier.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/cubic.png"
+	},
+	{
+		"name": "Can I Use ",
+		"type": ["All","HTML","CSS"],
+		"description": "A tool to see if browser is compatible with all browsers.",
+		"link": "https://caniuse.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/caniuse.png"
+	},
+	{
+		"name": "Icomoon ",
+		"type": ["All","HTML","CSS"],
+		"description": "Download icon packs.",
+		"link": "https://icomoon.io/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/icomoon.png"
 	}
 ]
