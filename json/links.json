@@ -279,24 +279,24 @@
 		"type": ["All","Hacking"],
 		"description": "Security Training for Developers.",
 		"link": "https://www.hacksplaining.com/",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/hacksplaning.png"
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/hacksplaining.png"
 	},
 	{
-		"name": "Airbnb JavaScript Style Guide",
+		"name": "JavaScript Styleguide",
 		"type": ["All","javascript","styleguide"],
 		"description": "A mostly reasonable approach to JavaScript.",
 		"link": "https://github.com/airbnb/javascript",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/airbnb.png"
 	},
 	{
-		"name": "Airbnb React/JSX Style Guide",
+		"name": "React/JSX Styleguide",
 		"type": ["All","React","styleguide"],
 		"description": "A mostly reasonable approach to React and JSX.",
 		"link": "https://github.com/airbnb/javascript/tree/master/react",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/airbnb.png"
 	},
 	{
-		"name": "Airbnb CSS / Sass Styleguide",
+		"name": "CSS/Sass Styleguide",
 		"type": ["All","CSS","styleguide"],
 		"description": "A mostly reasonable approach to CSS and Sass.",
 		"link": "https://github.com/airbnb/css",
