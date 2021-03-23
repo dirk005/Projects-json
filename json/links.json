@@ -75,5 +75,12 @@
 		"description": "Create regular expressions.",
 		"link": "https://regex101.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/regex101.png"
+	},
+	{
+		"name": "Symbols",
+		"type": ["All","HTML","CSS"],
+		"description": "Copy sybmols to use in web page.",
+		"link": "https://symbols.dev/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/symbols.png"
 	}
 ]
