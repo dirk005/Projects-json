@@ -82,5 +82,36 @@
 		"description": "Copy sybmols to use in web page.",
 		"link": "https://symbols.dev/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/symbols.png"
+	},
+	{
+		"name": "Online png tools",
+		"type": ["All","HTML","CSS"],
+		"description": "Import your PNG image in the editor and you will instantly get a transparent PNG.",
+		"link": "https://onlinepngtools.com/create-transparent-png",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/onlinepngtools.png"
+	}
+	,
+	{
+		"name": "Coverr",
+		"type": ["All","HTML","CSS"],
+		"description": "Free stock video footage.",
+		"link": "https://coverr.co/stock-video-footage",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/coverr.png"
+	}
+	,
+	{
+		"name": "Easing functions ",
+		"type": ["All","HTML","CSS"],
+		"description": "This page helps you choose the right easing function.",
+		"link": "https://easings.net/#",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/easing.png"
+	}
+	,
+	{
+		"name": "Cubic-bezier ",
+		"type": ["All","HTML","CSS"],
+		"description": "This page helps you create cubic-bezier function.",
+		"link": "https://cubic-bezier.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/cubic.png"
 	}
 ]
