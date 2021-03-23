@@ -127,5 +127,12 @@
 		"description": "Download icon packs.",
 		"link": "https://icomoon.io/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/icomoon.png"
+	},
+	{
+		"name": "Clean png ",
+		"type": ["All","HTML","CSS"],
+		"description": "Upload & discover png files without a hitch!.",
+		"link": "https://www.cleanpng.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/cleanpng.png"
 	}
 ]
