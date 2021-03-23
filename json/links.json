@@ -226,5 +226,26 @@
 		"description": "React Router is a collection of navigational components that compose declaratively with your application.",
 		"link": "https://reactrouter.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/reactrouter.png"
+	},
+	{
+		"name": "Redux",
+		"type": ["All","React","Redux"],
+		"description": "A Predictable State Container for JS Apps.",
+		"link": "https://redux.js.org/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/redux.png"
+	},
+	{
+		"name": "Reselect",
+		"type": ["All","React","Redux"],
+		"description": "Simple “selector” library for Redux.",
+		"link": "https://github.com/reduxjs/reselect",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/redux.png"
+	},
+	{
+		"name": "Redux Saga",
+		"type": ["All","React","Redux"],
+		"description": "An intuitive Redux side effect manager.",
+		"link": "https://redux-saga.js.org/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/reduxsaga.png"
 	}
 ]
