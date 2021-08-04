@@ -6,6 +6,18 @@
 		"link": "https://material-ui.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/material-ui.png"
 	},{
+		"name": "ES6 Tutorial",
+		"type": ["All","javasript"],
+		"description": "ECMAScript 2015, also known as ES6, is a fundamental version of the ECMAScript standard.",
+		"link": "https://www.w3schools.com/js/js_es6.asp",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/w3schools.png"
+	},{
+		"name": "ES6 Tutorial on W3Schools",
+		"type": ["All","javasript"],
+		"description": "ECMAScript 2015, also known as ES6, is a fundamental version of the ECMAScript standard.",
+		"link": "https://www.w3schools.com/js/js_es6.asp",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/js.png"
+	},{
 		"name": "Python Cheat Sheet",
 		"type": ["All","Python"],
 		"description": "ZTM Python Cheat Sheet.",
