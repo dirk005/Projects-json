@@ -20,7 +20,7 @@
 	},
 	{
 		"name": "OverAPI.com",
-		"type": ["All","Python","Nodejs","javascript","CSS","database","HTML","git"],
+		"type": ["All","API"],
 		"description": "All Developer Cheat sheets.",
 		"link": "https://overapi.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/overapi.png"
