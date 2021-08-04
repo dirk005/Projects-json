@@ -9,14 +9,14 @@
 		"name": "ES6 Tutorial",
 		"type": ["All","javascript"],
 		"description": "ECMAScript 2015, also known as ES6, is a fundamental version of the ECMAScript standard.",
-		"link": "https://www.w3schools.com/js/js_es6.asp",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/w3schools.png"
+		"link": "https://www.javascripttutorial.net/es6/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/js.png"
 	},{
 		"name": "ES6 Tutorial on W3Schools",
 		"type": ["All","javascript"],
 		"description": "ECMAScript 2015, also known as ES6, is a fundamental version of the ECMAScript standard.",
 		"link": "https://www.w3schools.com/js/js_es6.asp",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/js.png"
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/w3.png"
 	},{
 		"name": "Python Cheat Sheet",
 		"type": ["All","Python"],
