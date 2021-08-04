@@ -236,18 +236,6 @@
 		"description": "This page is an overview of the React documentation and related resources.",
 		"link": "https://reactjs.org/docs/getting-started.html",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/react.png"
-	},{
-		"name": "JEST",
-		"type": ["All","React"],
-		"description": "Jest is a delightful JavaScript Testing Framework with a focus on simplicity.",
-		"link": "https://jestjs.io/",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/jest.png"
-	},{
-		"name": "JEST Cheatsheet",
-		"type": ["All","React"],
-		"description": "Jest Cheatsheet.",
-		"link": "https://github.com/sapegin/jest-cheat-sheet",
-		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/jest.png"
 	},
 	{
 		"name": "API List",
@@ -383,5 +371,17 @@
 		"description": "A mostly reasonable approach to CSS and Sass.",
 		"link": "https://github.com/airbnb/css",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/airbnb.png"
+	},{
+		"name": "JEST",
+		"type": ["All","React"],
+		"description": "Jest is a delightful JavaScript Testing Framework with a focus on simplicity.",
+		"link": "https://jestjs.io/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/jest.png"
+	},{
+		"name": "JEST Cheatsheet",
+		"type": ["All","React"],
+		"description": "Jest Cheatsheet.",
+		"link": "https://github.com/sapegin/jest-cheat-sheet",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/jest.png"
 	}
 ]
