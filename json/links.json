@@ -93,6 +93,12 @@
 		"description": "Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development",
 		"link": "http://getbem.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/getbem.png"
+	},{
+		"name": "Styled Components",
+		"type": ["All","React","CSS"],
+		"description": "Visual primitives for the component age.Use the best bits of ES6 and CSS to style your apps without stress",
+		"link": "https://styled-components.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/styledcomponents.png"
 	},
 	{
 		"name": "Symbols",
