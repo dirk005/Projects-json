@@ -328,10 +328,10 @@
 	}
 	,
 	{
-		"name": "Redux Hooks",
+		"name": "Reselect",
 		"type": ["All","React","Redux"],
-		"description": "Using Hooks in a React Redux App.",
-		"link": "https://react-redux.js.org/api/hooks",
+		"description": "Simple “selector” library for Redux.",
+		"link": "https://github.com/reduxjs/reselect",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/redux.png"
 	},
 	{
