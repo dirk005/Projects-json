@@ -87,6 +87,12 @@
 		"description": "Create regular expressions.",
 		"link": "https://regex101.com/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/regex101.png"
+	},{
+		"name": "getBEM",
+		"type": ["All","HTML","CSS"],
+		"description": "Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development",
+		"link": "http://getbem.com/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/getbem.png"
 	},
 	{
 		"name": "Symbols",
