@@ -4,7 +4,7 @@
 		"type": ["All","React","CSS"],
 		"description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
 		"link": "https://material-ui.com/",
-		"imageLink" : "https://github.com/dirk005/images/blob/master/code-link/material-ui.png"
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/material-ui.png"
 	},{
 		"name": "Python Cheat Sheet",
 		"type": ["All","Python"],
