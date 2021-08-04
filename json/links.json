@@ -314,14 +314,14 @@
 	},
 	{
 		"name": "Redux",
-		"type": ["All","React","Redux"],
+		"type": ["All","Redux"],
 		"description": "A Predictable State Container for JS Apps.",
 		"link": "https://redux.js.org/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/redux.png"
 	},
 	{
 		"name": "Redux Hooks",
-		"type": ["All","React","Redux"],
+		"type": ["All","Redux"],
 		"description": "Using Hooks in a React Redux App.",
 		"link": "https://react-redux.js.org/api/hooks",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/redux.png"
@@ -329,7 +329,7 @@
 	,
 	{
 		"name": "Reselect",
-		"type": ["All","React","Redux"],
+		"type": ["All","Redux"],
 		"description": "Simple “selector” library for Redux.",
 		"link": "https://github.com/reduxjs/reselect",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/redux.png"
@@ -343,7 +343,7 @@
 	}
 	,
 	{
-		"name": "Reselect",
+		"name": "Hooks",
 		"type": ["All","React"],
 		"description": "Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class.",
 		"link": "https://reactjs.org/docs/hooks-intro.html",
@@ -351,7 +351,7 @@
 	},
 	{
 		"name": "Redux Saga",
-		"type": ["All","React","Redux"],
+		"type": ["All","Redux"],
 		"description": "An intuitive Redux side effect manager.",
 		"link": "https://redux-saga.js.org/",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/reduxsaga.png"
