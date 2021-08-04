@@ -320,11 +320,34 @@
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/redux.png"
 	},
 	{
-		"name": "Reselect",
+		"name": "Redux Hooks",
 		"type": ["All","React","Redux"],
-		"description": "Simple “selector” library for Redux.",
-		"link": "https://github.com/reduxjs/reselect",
+		"description": "Using Hooks in a React Redux App.",
+		"link": "https://react-redux.js.org/api/hooks",
 		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/redux.png"
+	}
+	,
+	{
+		"name": "Redux Hooks",
+		"type": ["All","React","Redux"],
+		"description": "Using Hooks in a React Redux App.",
+		"link": "https://react-redux.js.org/api/hooks",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/redux.png"
+	},
+	{
+		"name": "Overreacted useEffect guide",
+		"type": ["All","React"],
+		"description": "A Complete Guide to useEffect.",
+		"link": "https://overreacted.io/a-complete-guide-to-useeffect/",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/overreacted.png"
+	}
+	,
+	{
+		"name": "Reselect",
+		"type": ["All","React"],
+		"description": "Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class.",
+		"link": "https://reactjs.org/docs/hooks-intro.html",
+		"imageLink" : "https://raw.githubusercontent.com/dirk005/images/master/code-link/react.png"
 	},
 	{
 		"name": "Redux Saga",
